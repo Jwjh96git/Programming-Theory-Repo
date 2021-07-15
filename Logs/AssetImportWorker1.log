@@ -9,21 +9,21 @@ C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker2
+AssetImportWorker1
 -projectPath
-C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/New Unity Project
+C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/Programming-Theory-Repo
 -logFile
-Logs/AssetImportWorker2.log
+Logs/AssetImportWorker1.log
 -srvPort
-60449
-Successfully changed project path to: C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/New Unity Project
-C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/New Unity Project
+64340
+Successfully changed project path to: C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/Programming-Theory-Repo
+C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/Programming-Theory-Repo
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 27.95 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 26.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/New Unity Project/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Joshua Wong/Desktop/Evoweb/14 July 2021/Unity_Github/OOP-Project/Programming-Theory-Repo/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,18 +35,18 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56640
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002449 seconds.
+Registered in 0.446661 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 24.13 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 24.04 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.136 seconds
+- Completed reload, in 19.164 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004258 seconds.
+Registered in 0.762069 seconds.
